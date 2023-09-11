@@ -8,6 +8,5 @@
 - Html
 - Css
   ## Socials:
-  Email:  LordlancelotTheThird@outlook.com
-  Replit:  https://replit.com/@Js-Junior
-  LinkedIn:  www.linkedin.com/in/elijah-lightbourn-237303290 
+[Replit](https://replit.com/@Js-Junior),
+[LinkedIn](www.linkedin.com/in/elijah-lightbourn-237303290).
